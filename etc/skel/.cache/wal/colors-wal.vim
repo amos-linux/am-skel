@@ -1,0 +1,23 @@
+" Special
+let wallpaper  = "/usr/share/amos/wallpapers/44.jpg"
+let background = "#081933"
+let foreground = "#a5b8c1"
+let cursor     = "#a5b8c1"
+
+" Colors
+let color0  = "#081933"
+let color1  = "#9B5377"
+let color2  = "#E75C5B"
+let color3  = "#123D86"
+let color4  = "#195E81"
+let color5  = "#355982"
+let color6  = "#506885"
+let color7  = "#a5b8c1"
+let color8  = "#738087"
+let color9  = "#9B5377"
+let color10 = "#E75C5B"
+let color11 = "#123D86"
+let color12 = "#195E81"
+let color13 = "#355982"
+let color14 = "#506885"
+let color15 = "#a5b8c1"

@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/usr/share/backgrounds/amos-win11-wallpapers/22.jpeg",
+    "alpha": "100",
+    "special": {
+        "background": "#0B060F",
+        "foreground": "#8eaac0",
+        "cursor": "#8eaac0"
+    },
+    "colors": {
+        "color0": "#0B060F",
+        "color1": "#052F4B",
+        "color2": "#2D2A49",
+        "color3": "#60144D",
+        "color4": "#0B496A",
+        "color5": "#51506E",
+        "color6": "#8E2C6D",
+        "color7": "#8eaac0",
+        "color8": "#637686",
+        "color9": "#052F4B",
+        "color10": "#2D2A49",
+        "color11": "#60144D",
+        "color12": "#0B496A",
+        "color13": "#51506E",
+        "color14": "#8E2C6D",
+        "color15": "#8eaac0"
+    }
+}

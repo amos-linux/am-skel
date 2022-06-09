@@ -1,0 +1,263 @@
+sw_volume: 100
+audio_device_state:1:mpd-alsa
+audio_device_state:1:toggle_visualizer
+state: stop
+random: 0
+repeat: 0
+single: 0
+consume: 0
+crossfade: 0
+mixrampdb: 0.000000
+mixrampdelay: -1.000000
+playlist_begin
+0:ACDC-BlackIce/05 - AC_DC - Let Me Put My Love Into You.mp3
+1:ACDC-BlackIce/01 - AC_DC - Rock N Roll Train.mp3
+2:ACDC-BlackIce/02 - AC_DC - Skies on Fire.mp3
+3:ACDC-BlackIce/03 - AC_DC - Big Jack.mp3
+4:ACDC-BlackIce/04 - AC_DC - Anything Goes.mp3
+5:ACDC-BlackIce/05 - AC_DC - War Machine.mp3
+6:ACDC-BlackIce/06 - AC_DC - Smash N Grab.mp3
+7:ACDC-BlackIce/07 - AC_DC - Spoilin' for a Fight.mp3
+8:ACDC-BlackIce/08 - AC_DC - Wheels.mp3
+9:ACDC-BlackIce/09 - AC_DC - Decibel.mp3
+10:ACDC-BlackIce/10 - AC_DC - Stormy May Day.mp3
+11:ACDC-BlackIce/11 - AC_DC - She Likes Rock N Roll.mp3
+12:ACDC-BlackIce/12 - AC_DC - Money Made.mp3
+13:ACDC-BlackIce/13 - AC_DC - Rock N Roll Dream.mp3
+14:ACDC-BlackIce/14 - AC_DC - Rocking All the Way.mp3
+15:ACDC-BlackIce/15 - AC_DC - Black Ice.mp3
+16:ACDC-BlackIce/05 - AC_DC - Let Me Put My Love Into You.mp3
+17:ACDC-BlackIce/01 - AC_DC - Rock N Roll Train.mp3
+18:ACDC-BlackIce/02 - AC_DC - Skies on Fire.mp3
+19:ACDC-BlackIce/03 - AC_DC - Big Jack.mp3
+20:ACDC-BlackIce/04 - AC_DC - Anything Goes.mp3
+21:ACDC-BlackIce/05 - AC_DC - War Machine.mp3
+22:ACDC-BlackIce/06 - AC_DC - Smash N Grab.mp3
+23:ACDC-BlackIce/07 - AC_DC - Spoilin' for a Fight.mp3
+24:ACDC-BlackIce/08 - AC_DC - Wheels.mp3
+25:ACDC-BlackIce/09 - AC_DC - Decibel.mp3
+26:ACDC-BlackIce/10 - AC_DC - Stormy May Day.mp3
+27:ACDC-BlackIce/11 - AC_DC - She Likes Rock N Roll.mp3
+28:ACDC-BlackIce/12 - AC_DC - Money Made.mp3
+29:ACDC-BlackIce/13 - AC_DC - Rock N Roll Dream.mp3
+30:ACDC-BlackIce/14 - AC_DC - Rocking All the Way.mp3
+31:ACDC-BlackIce/15 - AC_DC - Black Ice.mp3
+32:ACDC-BlackIce/05 - AC_DC - Let Me Put My Love Into You.mp3
+33:ACDC-BlackIce/01 - AC_DC - Rock N Roll Train.mp3
+34:ACDC-BlackIce/02 - AC_DC - Skies on Fire.mp3
+35:ACDC-BlackIce/03 - AC_DC - Big Jack.mp3
+36:ACDC-BlackIce/04 - AC_DC - Anything Goes.mp3
+37:ACDC-BlackIce/05 - AC_DC - War Machine.mp3
+38:ACDC-BlackIce/06 - AC_DC - Smash N Grab.mp3
+39:ACDC-BlackIce/07 - AC_DC - Spoilin' for a Fight.mp3
+40:ACDC-BlackIce/08 - AC_DC - Wheels.mp3
+41:ACDC-BlackIce/09 - AC_DC - Decibel.mp3
+42:ACDC-BlackIce/10 - AC_DC - Stormy May Day.mp3
+43:ACDC-BlackIce/11 - AC_DC - She Likes Rock N Roll.mp3
+44:ACDC-BlackIce/12 - AC_DC - Money Made.mp3
+45:ACDC-BlackIce/13 - AC_DC - Rock N Roll Dream.mp3
+46:ACDC-BlackIce/14 - AC_DC - Rocking All the Way.mp3
+47:ACDC-BlackIce/15 - AC_DC - Black Ice.mp3
+48:ACDC-BlackIce/05 - AC_DC - Let Me Put My Love Into You.mp3
+49:ACDC-BlackIce/01 - AC_DC - Rock N Roll Train.mp3
+50:ACDC-BlackIce/02 - AC_DC - Skies on Fire.mp3
+51:ACDC-BlackIce/03 - AC_DC - Big Jack.mp3
+52:ACDC-BlackIce/04 - AC_DC - Anything Goes.mp3
+53:ACDC-BlackIce/05 - AC_DC - War Machine.mp3
+54:ACDC-BlackIce/06 - AC_DC - Smash N Grab.mp3
+55:ACDC-BlackIce/07 - AC_DC - Spoilin' for a Fight.mp3
+56:ACDC-BlackIce/08 - AC_DC - Wheels.mp3
+57:ACDC-BlackIce/09 - AC_DC - Decibel.mp3
+58:ACDC-BlackIce/10 - AC_DC - Stormy May Day.mp3
+59:ACDC-BlackIce/11 - AC_DC - She Likes Rock N Roll.mp3
+60:ACDC-BlackIce/12 - AC_DC - Money Made.mp3
+61:ACDC-BlackIce/13 - AC_DC - Rock N Roll Dream.mp3
+62:ACDC-BlackIce/14 - AC_DC - Rocking All the Way.mp3
+63:ACDC-BlackIce/15 - AC_DC - Black Ice.mp3
+64:ACDC-BlackIce/05 - AC_DC - Let Me Put My Love Into You.mp3
+65:ACDC-BlackIce/01 - AC_DC - Rock N Roll Train.mp3
+66:ACDC-BlackIce/02 - AC_DC - Skies on Fire.mp3
+67:ACDC-BlackIce/03 - AC_DC - Big Jack.mp3
+68:ACDC-BlackIce/04 - AC_DC - Anything Goes.mp3
+69:ACDC-BlackIce/05 - AC_DC - War Machine.mp3
+70:ACDC-BlackIce/06 - AC_DC - Smash N Grab.mp3
+71:ACDC-BlackIce/07 - AC_DC - Spoilin' for a Fight.mp3
+72:ACDC-BlackIce/08 - AC_DC - Wheels.mp3
+73:ACDC-BlackIce/09 - AC_DC - Decibel.mp3
+74:ACDC-BlackIce/10 - AC_DC - Stormy May Day.mp3
+75:ACDC-BlackIce/11 - AC_DC - She Likes Rock N Roll.mp3
+76:ACDC-BlackIce/12 - AC_DC - Money Made.mp3
+77:ACDC-BlackIce/13 - AC_DC - Rock N Roll Dream.mp3
+78:ACDC-BlackIce/14 - AC_DC - Rocking All the Way.mp3
+79:ACDC-BlackIce/15 - AC_DC - Black Ice.mp3
+80:ACDC-BlackIce/05 - AC_DC - Let Me Put My Love Into You.mp3
+81:ACDC-BlackIce/01 - AC_DC - Rock N Roll Train.mp3
+82:ACDC-BlackIce/02 - AC_DC - Skies on Fire.mp3
+83:ACDC-BlackIce/03 - AC_DC - Big Jack.mp3
+84:ACDC-BlackIce/04 - AC_DC - Anything Goes.mp3
+85:ACDC-BlackIce/05 - AC_DC - War Machine.mp3
+86:ACDC-BlackIce/06 - AC_DC - Smash N Grab.mp3
+87:ACDC-BlackIce/07 - AC_DC - Spoilin' for a Fight.mp3
+88:ACDC-BlackIce/08 - AC_DC - Wheels.mp3
+89:ACDC-BlackIce/09 - AC_DC - Decibel.mp3
+90:ACDC-BlackIce/10 - AC_DC - Stormy May Day.mp3
+91:ACDC-BlackIce/11 - AC_DC - She Likes Rock N Roll.mp3
+92:ACDC-BlackIce/12 - AC_DC - Money Made.mp3
+93:ACDC-BlackIce/13 - AC_DC - Rock N Roll Dream.mp3
+94:ACDC-BlackIce/14 - AC_DC - Rocking All the Way.mp3
+95:ACDC-BlackIce/15 - AC_DC - Black Ice.mp3
+96:ACDC-BlackIce/05 - AC_DC - Let Me Put My Love Into You.mp3
+97:ACDC-BlackIce/01 - AC_DC - Rock N Roll Train.mp3
+98:ACDC-BlackIce/02 - AC_DC - Skies on Fire.mp3
+99:ACDC-BlackIce/03 - AC_DC - Big Jack.mp3
+100:ACDC-BlackIce/04 - AC_DC - Anything Goes.mp3
+101:ACDC-BlackIce/05 - AC_DC - War Machine.mp3
+102:ACDC-BlackIce/06 - AC_DC - Smash N Grab.mp3
+103:ACDC-BlackIce/07 - AC_DC - Spoilin' for a Fight.mp3
+104:ACDC-BlackIce/08 - AC_DC - Wheels.mp3
+105:ACDC-BlackIce/09 - AC_DC - Decibel.mp3
+106:ACDC-BlackIce/10 - AC_DC - Stormy May Day.mp3
+107:ACDC-BlackIce/11 - AC_DC - She Likes Rock N Roll.mp3
+108:ACDC-BlackIce/12 - AC_DC - Money Made.mp3
+109:ACDC-BlackIce/13 - AC_DC - Rock N Roll Dream.mp3
+110:ACDC-BlackIce/14 - AC_DC - Rocking All the Way.mp3
+111:ACDC-BlackIce/15 - AC_DC - Black Ice.mp3
+112:ACDC-BlackIce/05 - AC_DC - Let Me Put My Love Into You.mp3
+113:ACDC-BlackIce/01 - AC_DC - Rock N Roll Train.mp3
+114:ACDC-BlackIce/02 - AC_DC - Skies on Fire.mp3
+115:ACDC-BlackIce/03 - AC_DC - Big Jack.mp3
+116:ACDC-BlackIce/04 - AC_DC - Anything Goes.mp3
+117:ACDC-BlackIce/05 - AC_DC - War Machine.mp3
+118:ACDC-BlackIce/06 - AC_DC - Smash N Grab.mp3
+119:ACDC-BlackIce/07 - AC_DC - Spoilin' for a Fight.mp3
+120:ACDC-BlackIce/08 - AC_DC - Wheels.mp3
+121:ACDC-BlackIce/09 - AC_DC - Decibel.mp3
+122:ACDC-BlackIce/10 - AC_DC - Stormy May Day.mp3
+123:ACDC-BlackIce/11 - AC_DC - She Likes Rock N Roll.mp3
+124:ACDC-BlackIce/12 - AC_DC - Money Made.mp3
+125:ACDC-BlackIce/13 - AC_DC - Rock N Roll Dream.mp3
+126:ACDC-BlackIce/14 - AC_DC - Rocking All the Way.mp3
+127:ACDC-BlackIce/15 - AC_DC - Black Ice.mp3
+128:ACDC-BlackIce/05 - AC_DC - Let Me Put My Love Into You.mp3
+129:ACDC-BlackIce/01 - AC_DC - Rock N Roll Train.mp3
+130:ACDC-BlackIce/02 - AC_DC - Skies on Fire.mp3
+131:ACDC-BlackIce/03 - AC_DC - Big Jack.mp3
+132:ACDC-BlackIce/04 - AC_DC - Anything Goes.mp3
+133:ACDC-BlackIce/05 - AC_DC - War Machine.mp3
+134:ACDC-BlackIce/06 - AC_DC - Smash N Grab.mp3
+135:ACDC-BlackIce/07 - AC_DC - Spoilin' for a Fight.mp3
+136:ACDC-BlackIce/08 - AC_DC - Wheels.mp3
+137:ACDC-BlackIce/09 - AC_DC - Decibel.mp3
+138:ACDC-BlackIce/10 - AC_DC - Stormy May Day.mp3
+139:ACDC-BlackIce/11 - AC_DC - She Likes Rock N Roll.mp3
+140:ACDC-BlackIce/12 - AC_DC - Money Made.mp3
+141:ACDC-BlackIce/13 - AC_DC - Rock N Roll Dream.mp3
+142:ACDC-BlackIce/14 - AC_DC - Rocking All the Way.mp3
+143:ACDC-BlackIce/15 - AC_DC - Black Ice.mp3
+144:ACDC-BlackIce/05 - AC_DC - Let Me Put My Love Into You.mp3
+145:ACDC-BlackIce/01 - AC_DC - Rock N Roll Train.mp3
+146:ACDC-BlackIce/02 - AC_DC - Skies on Fire.mp3
+147:ACDC-BlackIce/03 - AC_DC - Big Jack.mp3
+148:ACDC-BlackIce/04 - AC_DC - Anything Goes.mp3
+149:ACDC-BlackIce/05 - AC_DC - War Machine.mp3
+150:ACDC-BlackIce/06 - AC_DC - Smash N Grab.mp3
+151:ACDC-BlackIce/07 - AC_DC - Spoilin' for a Fight.mp3
+152:ACDC-BlackIce/08 - AC_DC - Wheels.mp3
+153:ACDC-BlackIce/09 - AC_DC - Decibel.mp3
+154:ACDC-BlackIce/10 - AC_DC - Stormy May Day.mp3
+155:ACDC-BlackIce/11 - AC_DC - She Likes Rock N Roll.mp3
+156:ACDC-BlackIce/12 - AC_DC - Money Made.mp3
+157:ACDC-BlackIce/13 - AC_DC - Rock N Roll Dream.mp3
+158:ACDC-BlackIce/14 - AC_DC - Rocking All the Way.mp3
+159:ACDC-BlackIce/15 - AC_DC - Black Ice.mp3
+160:The Cold Stares/02 - The Cold Stares - Head Bent.mp3
+161:The Cold Stares/11 - The Cold Stares - Break My Fall.mp3
+162:The Cold Stares/01 - The Cold Stares - Heavy Shoes.mp3
+163:The Cold Stares/02 - The Cold Stares - 40 Dead Men.mp3
+164:The Cold Stares/03 - The Cold Stares - Take This Body From Me.mp3
+165:The Cold Stares/04 - The Cold Stares - Hard Times.mp3
+166:The Cold Stares/05 - The Cold Stares - In The Night Time.mp3
+167:The Cold Stares/06 - The Cold Stares - Strange Light.mp3
+168:The Cold Stares/07 - The Cold Stares - Prosecution Blues.mp3
+169:The Cold Stares/08 - The Cold Stares - It's A Game.mp3
+170:The Cold Stares/09 - The Cold Stares - Save You From You.mp3
+171:The Cold Stares/10 - The Cold Stares - You Wanted Love.mp3
+172:The Cold Stares/11 - The Cold Stares - Election Blues.mp3
+173:The Cold Stares/12 - The Cold Stares - Dust In My Hands.mp3
+174:The Cold Stares/01 - The Cold Stares - The Great Unknown.mp3
+175:The Cold Stares/02 - The Cold Stares - Friend of Mine.mp3
+176:The Cold Stares/03 - The Cold Stares - Under His Command.mp3
+177:The Cold Stares/04 - The Cold Stares - Stickemup.mp3
+178:The Cold Stares/05 - The Cold Stares - Gone (Not Dead).mp3
+179:The Cold Stares/06 - The Cold Stares - Wade in the Darkness.mp3
+180:The Cold Stares/07 - The Cold Stares - Child of God.mp3
+181:The Cold Stares/08 - The Cold Stares - Sleeping with Lions.mp3
+182:The Cold Stares/09 - The Cold Stares - The River.mp3
+183:The Cold Stares/10 - The Cold Stares - Cold Black Water.mp3
+184:The Cold Stares/11 - The Cold Stares - The Plan.mp3
+185:The Cold Stares/12 - The Cold Stares - If Your Way Gets Dark.mp3
+186:The Cold Stares/13 - The Cold Stares - Two Keys and a Good Book.mp3
+187:The Cold Stares/14 - The Cold Stares - Killing Machine.mp3
+188:The Cold Stares/15 - The Cold Stares - Mountain.mp3
+189:The Cold Stares/01 - The Cold Stares - Any Way the Wind Blows.mp3
+190:The Cold Stares/07 - The Cold Stares - I Was a Fool.mp3
+191:00Rock/03_-_Thirty_Seconds_To_Mars_-_The_Kill__Bury_Me_.mp3
+192:00Rock/01_-_U2_-_Beautiful_Day.mp3
+193:00Rock/11_-_Nickelback_-_Rockstar.mp3
+194:00Rock/12_-_Alien_Ant_Farm_-_Smooth_Criminal.mp3
+195:00Rock/11_-_Rise_Against_-_Savior.mp3
+196:00Rock/05_-_Audioslave_-_Like_a_Stone.mp3
+197:00Rock/01_-_Foo_Fighters_-_Best_of_You.mp3
+198:00Rock/01_-_AC_DC_-_Rock_N_Roll_Train.mp3
+199:00Rock/03_-_blink-182_-_I_Miss_You.mp3
+200:00Rock/11_-_Red_Hot_Chili_Peppers_-_Under_the_Bridge.mp3
+201:00Rock/04_-_Staind_-_It_s_Been_Awhile.mp3
+202:00Rock/01_-_The_Raconteurs_-_Steady__As_She_Goes.mp3
+203:00Rock/07_-_Red_Hot_Chili_Peppers_-_Can_t_Stop.mp3
+204:00Rock/10_-_Limp_Bizkit_-_Take_A_Look_Around.mp3
+205:00Rock/05_-_Puddle_Of_Mudd_-_Blurry.mp3
+206:00Rock/08_-_Stone_Sour_-_Through_Glass.mp3
+207:00Rock/04_-_Sum_41_-_Still_Waiting.mp3
+208:00Rock/02_-_Seether_-_Fake_It.mp3
+209:00Rock/04_-_Oasis_-_Stop_Crying_Your_Heart_Out.mp3
+210:00Rock/08_-_Linkin_Park_-_In_the_End.mp3
+211:00Rock/02_-_Papa_Roach_-_Last_Resort.mp3
+212:00Rock/05_-_The_Smashing_Pumpkins_-_1979_-_Remastered_2012.mp3
+213:00Rock/13_-_Linkin_Park_-_Numb.mp3
+214:00Rock/01_-_Nirvana_-_Smells_Like_Teen_Spirit.mp3
+215:00Rock/04_-_The_Cranberries_-_Zombie.mp3
+216:00Rock/01_-_Queens_of_the_Stone_Age_-_No_One_Knows.mp3
+217:00Rock/01_-_Foo_Fighters_-_All_My_Life.mp3
+218:00Rock/04_-_Kings_of_Leon_-_Use_Somebody.mp3
+219:00Rock/02_-_Breaking_Benjamin_-_The_Diary_of_Jane_-_Single_Version.mp3
+220:00Rock/02_-_Rage_Against_The_Machine_-_Killing_In_The_Name.mp3
+221:00Rock/04_-_P.O.D._-_Youth_of_the_Nation.mp3
+222:00Rock/02_-_Nickelback_-_How_You_Remind_Me.mp3
+223:00Rock/01_-_Red_Hot_Chili_Peppers_-_Dani_California.mp3
+224:00Rock/07_-_Soundgarden_-_Black_Hole_Sun.mp3
+225:00Rock/06_-_Pearl_Jam_-_Jeremy.mp3
+226:00Rock/03_-_Radiohead_-_High_And_Dry.mp3
+227:00Rock/01_-_3_Doors_Down_-_Kryptonite.mp3
+228:00Rock/03_-_Nickelback_-_Someday.mp3
+229:00Rock/01_-_Muse_-_Uprising.mp3
+230:00Rock/04_-_Disturbed_-_Down_with_the_Sickness.mp3
+231:00Rock/03_-_Three_Days_Grace_-_I_Hate_Everything_About_You.mp3
+232:00Rock/06_-_The_Hives_-_Hate_To_Say_I_Told_You_So.mp3
+233:00Rock/06_-_Wolfmother_-_Joker_And_The_Thief.mp3
+234:ACDC-BlackIce/05 - AC_DC - Let Me Put My Love Into You.mp3
+235:ACDC-BlackIce/01 - AC_DC - Rock N Roll Train.mp3
+236:ACDC-BlackIce/02 - AC_DC - Skies on Fire.mp3
+237:ACDC-BlackIce/03 - AC_DC - Big Jack.mp3
+238:ACDC-BlackIce/04 - AC_DC - Anything Goes.mp3
+239:ACDC-BlackIce/05 - AC_DC - War Machine.mp3
+240:ACDC-BlackIce/06 - AC_DC - Smash N Grab.mp3
+241:ACDC-BlackIce/07 - AC_DC - Spoilin' for a Fight.mp3
+242:ACDC-BlackIce/08 - AC_DC - Wheels.mp3
+243:ACDC-BlackIce/09 - AC_DC - Decibel.mp3
+244:ACDC-BlackIce/10 - AC_DC - Stormy May Day.mp3
+245:ACDC-BlackIce/11 - AC_DC - She Likes Rock N Roll.mp3
+246:ACDC-BlackIce/12 - AC_DC - Money Made.mp3
+247:ACDC-BlackIce/13 - AC_DC - Rock N Roll Dream.mp3
+248:ACDC-BlackIce/14 - AC_DC - Rocking All the Way.mp3
+249:ACDC-BlackIce/15 - AC_DC - Black Ice.mp3
+playlist_end

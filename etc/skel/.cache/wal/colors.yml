@@ -1,0 +1,24 @@
+wallpaper: "/usr/share/amos/wallpapers/44.jpg"
+
+special:
+    background: "#081933"
+    foreground: "#a5b8c1"
+    cursor: "#a5b8c1"
+
+colors:
+    color0: "#081933"
+    color1: "#9B5377"
+    color2: "#E75C5B"
+    color3: "#123D86"
+    color4: "#195E81"
+    color5: "#355982"
+    color6: "#506885"
+    color7: "#a5b8c1"
+    color8: "#738087"
+    color9: "#9B5377"
+    color10: "#E75C5B"
+    color11: "#123D86"
+    color12: "#195E81"
+    color13: "#355982"
+    color14: "#506885"
+    color15: "#a5b8c1"

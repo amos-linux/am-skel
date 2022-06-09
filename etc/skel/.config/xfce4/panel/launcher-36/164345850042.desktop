@@ -1,0 +1,10 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=48
+Comment=
+Exec=/usr/share/amos/styles/48.sh
+Icon=/usr/share/icons/AmOs/actions/24/channelmixer.svg
+Path=
+Terminal=false
+StartupNotify=false

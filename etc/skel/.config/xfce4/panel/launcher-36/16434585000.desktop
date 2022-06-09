@@ -1,0 +1,10 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=12
+Comment=12
+Exec=/usr/share/amos/styles/12.sh
+Icon=/usr/share/icons/AmOs/actions/24/channelmixer.svg
+Path=
+Terminal=false
+StartupNotify=false

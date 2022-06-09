@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/usr/share/amos/wallpapers/28.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#17141a",
+        "foreground": "#decebb",
+        "cursor": "#decebb"
+    },
+    "colors": {
+        "color0": "#17141a",
+        "color1": "#C06040",
+        "color2": "#A48C75",
+        "color3": "#D7A563",
+        "color4": "#E6C475",
+        "color5": "#798481",
+        "color6": "#A29C88",
+        "color7": "#decebb",
+        "color8": "#9b9082",
+        "color9": "#C06040",
+        "color10": "#A48C75",
+        "color11": "#D7A563",
+        "color12": "#E6C475",
+        "color13": "#798481",
+        "color14": "#A29C88",
+        "color15": "#decebb"
+    }
+}

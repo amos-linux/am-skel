@@ -1,0 +1,21 @@
+set $wallpaper /usr/share/amos/wallpapers/44.jpg
+
+set $background #081933
+set $foreground #a5b8c1
+
+set $color0 #081933
+set $color1 #9B5377
+set $color2 #E75C5B
+set $color3 #123D86
+set $color4 #195E81
+set $color5 #355982
+set $color6 #506885
+set $color7 #a5b8c1
+set $color8 #738087
+set $color9 #9B5377
+set $color10 #E75C5B
+set $color11 #123D86
+set $color12 #195E81
+set $color13 #355982
+set $color14 #506885
+set $color15 #a5b8c1

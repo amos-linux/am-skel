@@ -1,0 +1,23 @@
+[Added Associations]
+application/x-shellscript=visual-studio-code.desktop;geany.desktop;mousepad.desktop;sublime_text.desktop;
+application/pdf=org.gnome.Evince.desktop;com.github.jeromerobert.pdfarranger.desktop;wps-office-pdf.desktop;
+application/x-perl=sublime_text.desktop;
+text/plain=atom.desktop;mousepad.desktop;geany.desktop;sublime_text.desktop;
+application/x-theme=sublime_text.desktop;
+application/xml=atom.desktop;sublime_text.desktop;
+application/json=sublime_text.desktop;
+image/jpeg=gimp.desktop;org.inkscape.Inkscape.desktop;ristretto.desktop;
+application/x-desktop=sublime_text.desktop;
+text/x-python3=sublime_text.desktop;
+text/x-matlab=sublime_text.desktop;geany.desktop;mousepad.desktop;visual-studio-code.desktop;
+text/x-csrc=sublime_text.desktop;mousepad.desktop;
+inode/symlink=sublime_text.desktop;
+image/png=org.inkscape.Inkscape.desktop;gimp.desktop;ristretto.desktop;
+text/x-qml=sublime_text.desktop;visual-studio-code.desktop;
+application/octet-stream=sublime_text.desktop;
+image/svg+xml=org.inkscape.Inkscape.desktop;ristretto.desktop;gimp.desktop;
+application/vnd.kde.kxmlguirc=sublime_text.desktop;
+
+[Default Applications]
+text/plain=sublime_text.desktop
+application/x-shellscript=sublime_text.desktop
